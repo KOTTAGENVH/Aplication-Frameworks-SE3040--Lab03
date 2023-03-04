@@ -1,0 +1,19 @@
+{
+  "name": "aplication-frameworks-se3040--lab03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOTTAGENVH/Aplication-Frameworks-SE3040--Lab03.git"
+  },
+  "author": "nowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOTTAGENVH/Aplication-Frameworks-SE3040--Lab03/issues"
+  },
+  "homepage": "https://github.com/KOTTAGENVH/Aplication-Frameworks-SE3040--Lab03#readme"
+}
